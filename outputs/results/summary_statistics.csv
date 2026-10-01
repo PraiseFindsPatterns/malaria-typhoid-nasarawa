@@ -1,0 +1,9 @@
+Metric,Malaria,Typhoid
+Mean,768,876
+Median,765,906
+Std Dev,152,207
+Min,527,541
+Max,994,1337
+Trend (slope),9.89,-8.39
+R²,0.120,0.047
+Correlation with Typhoid,-0.087,-0.087
